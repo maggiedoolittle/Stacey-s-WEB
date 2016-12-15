@@ -1,0 +1,46 @@
+background:rgb(253,253,253);
+}
+#content{
+background:rgb(253,253,253);
+}
+#content-footer{
+height:200px;
+width:100%;
+background:url("images/new/footer.jpg");
+}
+#search-main{
+height:800px;
+width:920px;
+margin:0 auto;
+}
+	#search-main1{
+	float:left;
+	height:200px;
+	width:920px;
+	}
+	#search-main2{
+	float:left;
+	height:600px;
+	width:920px;
+	}
+	    #TextBox1
+	    {
+	        display:block;
+	        float:left;
+	        margin-top:30px;
+	        margin-left:200px;
+	    }
+	    #Button1
+	    {
+	        display:block;
+	        float:right;
+	        margin-right:180px;
+	        margin-top:25px;
+	    }
+			
+			
+			
+
+			
+			
+			
